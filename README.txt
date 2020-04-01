@@ -1,2 +1,2 @@
-Creates, Configure, Install/Remove/Update packages on various Linux disro 
-for System Administrator.
+Creates, Configure, Install/Remove/Update packages 
+on various Linux disro for System Administrator.
