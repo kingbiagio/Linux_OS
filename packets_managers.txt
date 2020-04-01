@@ -1,0 +1,27 @@
+< Linux OS >
+# install packages on different Linux distros
+
+# Debian/Ubuntu-based
+student:/tmp> apt-get install dump
+student:/tmp> apt-get remove dump
+
+or
+# the new packet manager APT
+  on Debian-based/Ubuntu_16.04
+student:/tmp> apt install dump
+student:/tmp> apt remove dump
+
+# RedHat/CentOS_8/Fedora-based,
+  the new pack-manager DNF
+student:/tmp> dnf install dump
+student:/tmp> dnf remove dump
+
+or
+# the old Packet manager YUM,
+   on RedHat/CentOS_7/Fedora-based
+student:/tmp> yum install dump
+student:/tmp> yum remove dump
+
+#SUSE/OpenSUSE-based
+student:/tmp> zypper install dump
+student:/tmp> zypper remove dump
